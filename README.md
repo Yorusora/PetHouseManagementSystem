@@ -19,3 +19,5 @@
 * PetHouseManagementSystem_boxed.exe为已经封装好的可执行文件，双击即可运行。若不能则可能丢失某些组件或依赖库导致无法运行。
 
 * releaseEXE文件夹内的可执行文件是未封装的程序。
+
+* 以上两条中的exe文件未上传至Github仓库
